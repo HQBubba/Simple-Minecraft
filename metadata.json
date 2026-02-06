@@ -1,0 +1,7 @@
+{
+  "name": "Simple Minecraft",
+  "description": "A feature-complete voxel sandbox featuring Overworld, Nether, and End dimensions, advanced procedural generation, survival mechanics (Hunger/Health), and hostile entities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
